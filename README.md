@@ -1,6 +1,6 @@
 # point-in-svg-polygon
 
-> Determine if an point is inside a polygon
+> Determine if a point is inside a polygon
 
 [![Build Status](https://travis-ci.org/rubenv/point-in-svg-polygon.png?branch=master)](https://travis-ci.org/rubenv/point-in-svg-polygon)
 
